@@ -310,7 +310,11 @@ p {
   background-color: #F8FBFF; /* Light Light cornflower */
 }
 
-
+.pom-current > img,
+.trom-current > img {
+  display: block;
+}
+}
 
 
 /* Mobile Styles */
